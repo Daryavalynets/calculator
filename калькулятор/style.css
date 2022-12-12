@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+h1 {
+    color:  #FFDC40;
+    height: 94px;
+    width: 380px;
+    border-radius: undefinedpx;
+    font-family: 'Roboto Condensed';
+    font-size: 50px;
+    margin-bottom: 60px;
+}
+
+body {
+    height: 800px;
+    width: 500px;
+    left: 901px;
+    top: -281px;
+    border-radius: 0px;
+    background-color: #360160;
+}
+.tips{
+    color: white;
+    height: 29px;
+    width: 147px;
+    left: 60px;
+    top: 607px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    font-family: 'Roboto Condensed';
+}
+.all {
+    width: 147px;
+    height: 29px;
+    left: 60px;
+    top: 666px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    color: white;
+}
+
+.calcul {
+    width: 180px;
+    height: 60px;
+    left: 60px;
+    top: 480px;
+    background: #FFDC40;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.count {
+    width: 128px;
+    height: 22px;
+    font-family: 'Roboto Condensed';
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    padding-left: 14px;
+}
+
+.cancel {
+    width: 180px;
+    height: 60px;
+    left: 260px;
+    top: 480px;
+    background: #7C7A7A;
+    border-radius: 15px;
+}
+
+
+.throw {
+    width: 114px;
+    height: 22px;
+    font-family: 'Roboto Condensed';
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding-left: 20px;
+}
+
+.summCheck {
+    box-sizing: border-box;
+    width: 380px;
+    height: 50px;
+    left: 60px;
+    top: 200px;
+    background: #FFFFFF;
+    border: 2px solid #A4CEF4;
+    border-radius: 5px;
+}
+.pplAmount {
+    box-sizing: border-box;
+    width: 380px;
+    height: 50px;
+    left: 60px;
+    top: 200px;
+    background: #FFFFFF;
+    border: 2px solid #A4CEF4;
+    border-radius: 5px;
+}
+
+.conditions {
+    box-sizing: border-box;
+    width: 380px;
+    height: 50px;
+    left: 60px;
+    top: 200px;
+    background: #FFFFFF;
+    border: 2px solid #A4CEF4;
+    border-radius: 5px;
+}
+
+.sumCheque{
+width: 380px;
+height: 23px;
+font-family: 'Roboto Condensed';
+font-weight: 400;
+font-size: 20px;
+color: #FFFFFF;
+}
+
+.servQuality {
+    width: 380px;
+    height: 23px;
+    font-family: 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.ppl {
+    width: 380px;
+height: 23px;
+font-family: 'Roboto Condensed';
+font-weight: 400;
+font-size: 20px;
+color: #FFFFFF;
+}
+
+.each {
+    width: 112px;
+    height: 21px;
+    font-family: 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 18px;
+   text-align: right;
+   color: #B6B6B6;
+}
+
+
+
